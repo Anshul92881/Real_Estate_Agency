@@ -39,7 +39,7 @@ const About = () => {
             </div>
           </div>
           <p className='my-8 max-w-lg'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam enim adipisci sunt incidunt deleniti id provident, quaerat cum consequatur itaque vitae, sapiente officiis odio quibusdam atque in. Magni, similique! Excepturi.</p>
-          <button className='bg-blue-600 text-white px-4 py-1 rounded w-1/2'>Learn More...</button>
+          <button className='bg-blue-600 hover:bg-blue-700 text-white font-medium px-4 py-2 rounded-md transition duration-300 w-fit'>Learn More...</button>
         </div>
 
       </div>
