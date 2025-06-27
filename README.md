@@ -66,3 +66,12 @@ npm start
 
 # Screenshots
 
+![Image](https://github.com/user-attachments/assets/8225c63e-1c83-4b3e-8caf-322a9bb09234)
+
+![Image](https://github.com/user-attachments/assets/efa191c6-f6ed-4a82-b5ae-4a80c9a70e8b)
+![Image](https://github.com/user-attachments/assets/ddd8ff49-1bfd-4b84-986e-e44f925b5878)
+![Image](https://github.com/user-attachments/assets/05f36bed-23f2-4122-aa44-1f00929ee38f)
+
+# 📃 License
+
+This project is licensed under the MIT License.
